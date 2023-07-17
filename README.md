@@ -21,10 +21,6 @@
 
 <code>make mig</code>
 
-<p>Second, create superuser:</p>
-
-<code>make admin</code>
-
 # Finish
 
 <p>Change your settings (create your env file) of course and THAT'S ALL))</p>
