@@ -13,7 +13,7 @@
 
 # Commands with make
 
-<p>As python interpreter language let's up venv:</p>
+<p>As python interpreter language let's set up venv:</p>
 
 <code>make install-req</code> 
 
